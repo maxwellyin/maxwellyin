@@ -78,7 +78,7 @@ A production-style GenAI system for complex natural language search.
 
 ## 🤝 Open to Opportunities
 
-I'm currently looking for **Machine Learning Engineer / Applied Scientist roles** focused on:
+I'm currently looking for **Machine Learning Engineer roles** focused on:
 
 - LLM product systems  
 - Retrieval / search / recommendation  
