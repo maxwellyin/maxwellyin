@@ -1,89 +1,94 @@
+
 # Hi, I'm Maxwell 👋
 
-Machine Learning Engineer focused on building **LLM-powered product systems** — from model training to real-world deployment.
+**Machine Learning Engineer @ Pinterest | PhD in NLP**
 
-I specialize in turning research into **scalable, reliable, and user-facing AI products**, with a strong emphasis on **retrieval, evaluation, and system performance**.
+I build large-scale machine learning systems, specializing in **search, retrieval, and representation learning**.
 
----
-
-## 🚀 What I Do
-
-- Build **LLM product systems** (RAG, semantic search, agents)
-- Design **evaluation pipelines** to improve model quality and reliability
-- Optimize systems for **latency, scalability, and real-world constraints**
-- Bridge **research ↔ production**, making models actually usable
+My experience spans **NLP research, LLM training, and production ML systems** — from developing new models to making them efficient, reliable, and useful at scale.
 
 ---
 
-## 🧠 Experience Highlights
+## 🚀 What I Work On
 
-- 🏗 **LLM Pretraining @ Huawei Noah’s Ark Lab**
-  - Trained a **400M parameter Transformer on 40B tokens (8×H100)**
-  - Built reproducible evaluation pipelines for model selection & deployment
-  - Optimized training/inference performance (GPU utilization, memory, latency)
+- **Search & Retrieval** — Semantic search, two-tower models, embeddings, and relevance optimization
+- **Representation Learning** — Contrastive learning, multimodal representations, and efficient retrieval
+- **LLMs & NLP** — Language model training, evaluation, and retrieval-augmented generation
+- **ML Systems** — Distributed training, GPU optimization, scalable inference, and production evaluation
 
-- 🔍 **Production Retrieval System (Research → System)**
-  - Built large-scale semantic retrieval over **500K+ docs / 1.7M passages**
-  - Achieved **5× latency reduction + improved ranking quality**
-  - Enabled faster and more reliable downstream LLM applications
+---
+
+## 💼 Experience
+
+### 📌 Machine Learning Engineer @ Pinterest
+*Search & Retrieval | 2026 – Present*
+
+Working on large-scale machine learning systems powering search and content discovery.
+
+- Develop and evaluate **retrieval and representation learning models** for search relevance
+- Work with **two-tower architectures, multimodal embeddings, and large-scale training pipelines**
+- Improve model quality and production efficiency through systematic evaluation and optimization
+
+### 🧠 LLM Research Engineer @ Huawei Noah's Ark Lab
+*2025 – 2026*
+
+Focused on language model training, evaluation, and efficient retrieval systems.
+
+- Trained a **400M-parameter Transformer on 40B tokens** using 8×H100 GPUs
+- Built reproducible evaluation pipelines for language models and long-context capabilities
+- Developed a semantic retrieval system over **500K+ documents / 1.7M passages**, achieving a **5× latency reduction**
+- Optimized model training and inference across GPU memory, throughput, and latency
+
+---
+
+## 🎓 Research Background
+
+**PhD in Computer Science (Natural Language Processing)**  
+Western University, Canada | 2025
+
+My research focused on **question answering, domain adaptation, debiasing, and information retrieval**, with publications at:
+
+**TACL · NAACL · AAAI · EMNLP · Expert Systems with Applications**
+
+I am particularly interested in bridging advances in machine learning research with practical, scalable systems.
 
 ---
 
 ## 🧩 Featured Project
 
-### 🎬 CineSeek — LLM-Powered Semantic Search System  
-🔗 https://cineseek.maxwellyin.com  
-🔗 https://github.com/maxwellyin/cineseek-semantic-search  
+### 🎬 CineSeek — LLM-Powered Semantic Search
 
-A production-style GenAI system for complex natural language search.
+🌐 [Live Demo](https://cineseek.maxwellyin.com) · 💻 [GitHub Repository](https://github.com/maxwellyin/cineseek-semantic-search)
 
-**Key features:**
-- RAG pipeline: query rewriting → FAISS retrieval → LLM reranking  
-- Agent-based query understanding & explanation  
-- Real-time serving with FastAPI + Docker deployment  
+A production-style semantic search application designed to understand complex natural language queries.
 
-👉 Focus: **user experience, latency, and robustness in LLM search**
-
----
-
-## ⚙️ Tech Stack
-
-**LLM & ML**
-- Transformers, RAG, embeddings, evaluation
-- PyTorch, HuggingFace, vLLM
-
-**Systems & Infra**
-- FastAPI, Docker, FAISS
-- Distributed training (DeepSpeed, mixed precision)
-- AWS, SLURM
+**Highlights**
+- Multi-stage retrieval: **Query Rewriting → FAISS Retrieval → LLM Reranking**
+- Agent-based query understanding and result explanation
+- Real-time inference with **FastAPI** and containerized deployment
+- End-to-end system design emphasizing **relevance, latency, and user experience**
 
 ---
 
-## 📊 What I Care About
+## ⚙️ Technical Interests
 
-- Model quality **in real user scenarios** (not just benchmarks)
-- System-level tradeoffs: **latency vs quality vs cost**
-- Reliable evaluation: **failure analysis, benchmarking, iteration loops**
-- Building AI that actually **works in production**
-
----
-
-## 🌐 Links
-
-- 🌍 Portfolio: https://maxwellyin.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/mjyin/  
-- 📚 Google Scholar: https://scholar.google.com/citations?user=gI49wecAAAAJ&hl=en  
+| Area | Technologies & Topics |
+|------|------------------------|
+| **Search & Retrieval** | Two-Tower Models, Embeddings, FAISS, Semantic Search |
+| **Machine Learning** | PyTorch, Transformers, Contrastive Learning, Multimodal Learning |
+| **LLMs & NLP** | Hugging Face, vLLM, RAG, Model Evaluation |
+| **ML Infrastructure** | Distributed Training, DeepSpeed, GPU Optimization, Docker |
+| **Engineering** | Python, FastAPI, AWS, SLURM |
 
 ---
 
-## 🤝 Open to Opportunities
+## 💡 What I Care About
 
-I'm currently looking for **Machine Learning Engineer roles** focused on:
+I enjoy solving problems at the intersection of **model quality, system performance, and real-world product constraints**.
 
-- LLM product systems  
-- Retrieval / search / recommendation  
-- Real-world AI deployment  
+I'm especially interested in:
 
----
-
-⭐️ Feel free to check out my projects or reach out!
+- Turning promising research ideas into production-ready ML systems
+- Understanding tradeoffs between **quality, latency, and cost**
+- Building reusable infrastructure and evaluation frameworks
+- Designing ML systems that remain reliable as they scale
