@@ -29,28 +29,29 @@ Working on large-scale machine learning systems powering search and content disc
 - Work with **two-tower architectures, multimodal embeddings, and large-scale training pipelines**
 - Improve model quality and production efficiency through systematic evaluation and optimization
 
-### 🧠 LLM Research Engineer @ Huawei Noah's Ark Lab
+### 🧠 Machine Learning Researcher @ Huawei Noah's Ark Lab
 *2025 – 2026*
 
-Focused on language model training, evaluation, and efficient retrieval systems.
+Focused on large language model training, evaluation, and inference optimization.
 
 - Trained a **400M-parameter Transformer on 40B tokens** using 8×H100 GPUs
-- Built reproducible evaluation pipelines for language models and long-context capabilities
-- Developed a semantic retrieval system over **500K+ documents / 1.7M passages**, achieving a **5× latency reduction**
-- Optimized model training and inference across GPU memory, throughput, and latency
+- Developed reproducible evaluation pipelines for language models and long-context capabilities
+- Worked on **LLM training and inference optimization**, including GPU utilization, memory efficiency, and throughput
 
 ---
 
 ## 🎓 Research Background
 
-**PhD in Computer Science (Natural Language Processing)**  
-Western University, Canada | 2025
+### PhD in Computer Science (NLP) @ Western University
+*2025*
 
-My research focused on **question answering, domain adaptation, debiasing, and information retrieval**, with publications at:
+My research focused on **question answering, domain adaptation, debiasing, and information retrieval**.
 
-**TACL · NAACL · AAAI · EMNLP · Expert Systems with Applications**
-
-I am particularly interested in bridging advances in machine learning research with practical, scalable systems.
+**Research Highlights**
+- Published first-author research at **TACL, NAACL, AAAI, EMNLP, and Expert Systems with Applications**
+- Developed a large-scale semantic retrieval system covering **500K+ documents / 1.7M passages**
+- Achieved a **5× latency reduction** while improving retrieval quality
+- Explored techniques for improving robustness and generalization in question answering systems
 
 ---
 
