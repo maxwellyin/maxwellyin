@@ -42,8 +42,8 @@ Focused on large language model training, evaluation, and inference optimization
 
 ## 🎓 Research Background
 
-### PhD in Computer Science (NLP) @ Western University
-*2025*
+### 🎓 PhD Researcher @ Western University
+*Computer Science (NLP) | 2021 – 2025*
 
 My research focused on **question answering, domain adaptation, debiasing, and information retrieval**.
 
